@@ -1,0 +1,10 @@
+^C:\USERS\RYANB\.VSCODE\CODING\RFID-PASSKEY\CLI_PET\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ryanb/.vscode/Coding/rfid-passkey/CLI_Pet -BC:/Users/ryanb/.vscode/Coding/rfid-passkey/CLI_Pet/build --check-stamp-file C:/Users/ryanb/.vscode/Coding/rfid-passkey/CLI_Pet/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
