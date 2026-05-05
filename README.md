@@ -1,5 +1,5 @@
-# rfid-passkey
-Arduino Uno program that is set up to use an RFID scanner to then prompt an outcome of the user's choice. It is designed to act like a start to another future project. Use this "short-cut" as you wish!
+# CLI_Pet
+A pet hampster game where it needs to be fed, watered, and played with. Sometimes, he just runs away. Sometimes he just dies. This is the Lore Accurate Hampster Game.
 
 ## Instructions for Build and Use
 
