@@ -30,9 +30,9 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |4/29/2026 | 2:00 PM  | MTG    | Working in class to get the Repository created.                                                                                      | 1:00        |
 |5/4/2026  | 2:00 PM  | MTG    | Creating the Wireframe for the Guitar Tabs App.                                                                                      | 1:00        |
 |5/5/2026  | 1:12 PM  | TP     | Creating the Wireframe and designing stuff on my iPad. Got pretty far actually and have a good scope!                                |             |
-|5/5/2026  | 2:12 PM  | IM     | I changed my project idea because it was WAAAAAAAAAAAAAAAAAAAAAAAY too hard for me to learn... I am now making a Hampster game.      | 3:00        |
+|5/5/2026  | 2:12 PM  | IM     | I changed my project idea because it was WAAAAAAAAAAAAAAAAAAAAAAAY too hard for me to learn... I am now making a Hampster game.      | 3:10        |
 |          |          |        |                                                                                                                                      |             |
-|          |          |        |                                                                                                                                      |             |                                                                                                                                     |             |
+|          |          |        |                                                                                                                                      |             |   
 
 _Note: Add more rows as needed._
 

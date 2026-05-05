@@ -5,22 +5,22 @@ A pet hampster game where it needs to be fed, watered, and played with. Sometime
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. You need to download a C++ complier to actually be able to run the code!
+2. You need some kind of shell to run the program in.
+3. 
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Open up PowerShell
+2. Run: `cmake --build build; .\build\Debug\CLIPet.exe`
+3. Play the game.
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
+* I downloaded Visual Studio 2019 since it comes with a C++ complier. Any C++ complier will work though.
+* I ran all of my code using Cursor's terminal (Visual Studio Code also works).
 *
 
 ## Useful Websites to Learn More
