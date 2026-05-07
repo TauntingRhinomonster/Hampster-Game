@@ -13,6 +13,7 @@ Instructions for using the software:
 
 1. Open up PowerShell
 2. Run: `cmake --build build; .\build\Debug\CLIPet.exe`
+    - You are essentially telling it to build the file and then you are just pasting the path to the Debug folder.
 3. Play the game.
 
 ## Development Environment

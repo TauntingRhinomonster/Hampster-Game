@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/ryanb/.vscode/Coding/rfid-passkey/CLI_Pet/build/cmake_install.cmake"
+		"C:/Users/ryanb/.vscode/Coding/CLI_Pet/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

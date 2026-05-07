@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\ryanb\.vscode\Coding\rfid-passkey\CLI_Pet\build\CMakeFiles\d2574e5e03bed32211609d1edf28620f\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\ryanb\.vscode\Coding\CLI_Pet\build\CMakeFiles\53e6ceacab2d06665b2101ec10d46b8d\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{B69096D7-7611-35B3-BC98-F347A7C8BB4E}</UniqueIdentifier>
+      <UniqueIdentifier>{9A2FEC9D-5AF2-3F93-8906-7CC594B377FF}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
