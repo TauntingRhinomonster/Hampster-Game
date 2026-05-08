@@ -16,6 +16,9 @@ public:
   void animate();
   std::string getName();
   void setName(std::string);
+  void setHunger(int);
+  void setThirst(int);
+  void setHappiness(int);
   void save();
   void load();
 

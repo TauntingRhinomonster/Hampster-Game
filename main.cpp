@@ -5,7 +5,7 @@
 void Pet::status() {
   std::cout << "\n--- " << _name << "'s Status ---" << std::endl;
   std::cout << "Hunger: " << _hunger << "/100" << std::endl;
-  std::cout << "Hunger: " << _thirst << "/100" << std::endl;
+  std::cout << "Thirst: " << _thirst << "/100" << std::endl;
   std::cout << "Happiness: " << _happiness << "/100" << std::endl;
 }
 
@@ -32,8 +32,12 @@ int main() {
     myPet.status();
 
     if (!myPet.isAlive()) {
-      std::cout << "\nRIP... " << myPet.getName() << " has passed away. :("
-                << std::endl;
+      std::cout << "\nRIP... " << myPet.getName() << " has passed away. :(" << std::endl;
+      myPet.setName("");
+      myPet.setHunger(50);
+      myPet.setThirst(50);
+      myPet.setHappiness(100);
+      myPet.save();
       return 1;
     }
 
@@ -51,8 +55,7 @@ int main() {
       myPet.play();
     } else {
       myPet.animate();
-      std::cout << "Invalid command! " << myPet.getName() << " looks confused."
-                << std::endl;
+      std::cout << "Invalid command! " << myPet.getName() << " looks confused." << std::endl;
     }
 
     myPet.update();
