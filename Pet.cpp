@@ -24,7 +24,7 @@ void Pet::play() {
   std::cout << ">> You play catch! The pet is happy." << std::endl;
   _happiness += 10;
   _hunger += 5;
-  if (_happiness > 100) _happiness = 102;
+  if (_happiness > 100) _happiness = 100;
 }
 
 bool Pet::isAlive() { return _hunger < 100 && _thirst < 100 && _happiness > 0; }
@@ -90,7 +90,6 @@ void Pet::animate() {
 // General Methods
 
 std::string Pet::getName() { return _name; }
-
 void Pet::setName(std::string name) { _name = name; }
 void Pet::setHunger(int hunger) { _hunger = hunger; }
 void Pet::setThirst(int thirst) { _thirst = thirst; }
